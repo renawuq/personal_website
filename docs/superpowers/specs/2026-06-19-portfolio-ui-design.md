@@ -3,7 +3,7 @@
 **Status:** Approved
 
 ---
-
+2 
 ## Overview
 
 A personal portfolio/resume website for a software/tech professional targeting a mix of recruiters/hiring managers and potential freelance clients. Built with Next.js 14, bold and colorful aesthetic (Electric Indigo palette), single-page scrolling layout.
