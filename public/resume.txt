@@ -1,0 +1,218 @@
+主要公司：
+- Moderna（现在最热）
+- BioNTech（德国，但招美国人）
+- Genentech/Roche（老牌，稳定）
+- 初创：Atomwise、DeepCure、Exscientia（融资热）
+
+薪资：
+- 入职：100K-130K
+- 2年后：130K-170K
+- 加股票/期权
+
+为什么选这个：
+- AI药物发现现在是AI应用最成功的领域
+- 融资最充足（不会像科技股那样崩）
+- 工作稳定性高
+- 薪资增长快
+
+第二梯队：基因组学和精准医疗
+
+职位名称：
+- Bioinformatics Scientist (Genomics)
+- Computational Biologist (Clinical Genomics)
+- Precision Medicine Data Analyst
+
+主要公司：
+- 23andMe（如果还在招）
+- Illumina（测序行业老大）
+- Guardant Health（液体活检）
+- Color Genomics
+
+薪资：
+- 入职：85K-110K
+- 相对偏低，但工作稳定
+
+第三梯队：大制药公司研发
+
+职位名称：
+- Bioinformatics Analyst
+- Computational Scientist
+- Data Scientist (R&D)
+
+主要公司：
+- Pfizer
+- Moderna
+- Merck
+- J&J
+
+薪资：
+- 入职：90K-120K
+- 福利好，工作稳定
+
+为什么薪资低于初创：
+- 大公司流程多，工作自由度低
+- 但更稳定，有名声
+
+第四梯队：生物信息学服务公司
+
+职位名称：
+- Bioinformatics Developer
+- Pipeline Developer
+- Data Analyst
+
+主要公司：
+- BaseSpace（Illumina子公司）
+- SciLifeLab
+- DNAstack
+
+薪资：
+- 入职：80K-100K
+- 最低的选项
+
+我最强烈推荐的方向
+
+Yale CBB + 现在的市场 = AI药物发现初创
+
+原因：
+
+1. 薪资最高（100K-150K入职）
+2. 最有成长空间（1-2年升到150K+）
+3. 最有前景（AI药物发现是未来）
+4. 工作有趣（真的在做AI改变医学）
+5. 融资充足（不怕公司倒闭）
+6. 学到的技能最值钱
+
+具体公司推荐：
+- Atomwise：用AI预测蛋白质折叠和结合
+- DeepCure：专注癌症
+- Exscientia：英国但招美国人
+6. 学到的技能最值钱
+
+具体公司推荐：
+- Atomwise：用AI预测蛋白质折叠和结合
+- DeepCure：专注癌症
+- Exscientia：英国但招美国人
+- Tempus：AI医学数据平台
+- Insitro：AI蛋白质设计
+
+这些公司：
+- 都有充足融资
+- 都在快速增长
+- 都需要有编程背景的生物学家
+- 创始人和团队都很强
+
+立即应该做的事（时间紧迫）
+
+这周（6月底前）
+
+1. 更新简历
+  - 强调：AI项目、编程能力、Yale CBB
+  - 具体说你在master期间做了什么（论文题目、代码库）
+  - 加上GitHub链接
+2. 建立LinkedIn档案
+  - 写得吸引人："Passionate about AI-driven drug discovery"
+  - 链接简历和GitHub
+3. 列出目标公司（20个）
+  - AI药物发现初创：5个
+  - 大制药公司：5个
+  - 基因组学公司：5个
+  - 其他：5个
+
+7月上旬
+
+1. 投递简历
+  - 优先：AI药物发现初创
+  - 渠道：公司官网 > LinkedIn > CompBioJobs
+  - 如果有校友在这些公司，让他们内推（重要！）
+2. 参加行业会议
+  - ISMB 2026（如果还有报名的话）
+  - BIO大会
+  - 线上生物信息学webinar
+3. 联系Yale CBB校友
+  - 查看校友在哪些公司工作
+  - 和他们coffee chat，了解公司
+  - 让他们帮你内推
+
+7月中旬到8月
+
+1. 面试准备
+  - 准备讲解你的master项目
+  - 学习目标公司的技术栈
+  - 复习机器学习基础（面试会问）
+2. 谈offer
+  - AI初创的offer可能：100K-130K + 期权
+  - 比较时看：工资、期权、项目、导师
+  - 期权价值很高（如果公司成功）
+
+9月前
+
+签下offer
+
+特定行业建议
+
+如果你想进AI药物发现：
+
+你需要的：
+- 了解蛋白质结构（AlphaFold、RoseTTAFold）
+- 了解分子对接（docking）
+- PyTorch或TensorFlow经验
+- 了解SMILES、RDKit等化学信息学工具
+
+这些如果你master时学过，很好。如果没有：
+- 可以用2周时间自学基础
+- 在面试中说"熟悉这些领域，很快能上手"
+
+薪资和福利预期
+
+AI药物发现初创offer（Yale CBB毕业）：
+
+基本工资：100K-130K
+期权：0.05%-0.2%（取决于公司阶段）
+福利：医保、401K、无限假期
+签约奖：0-20K
+年奖金：0-20%
+
+如果期权有价值（公司IPO），可能值很多钱。
+
+与科技股崩跌的关系
+
+生物信息学vs普通软件工程师：
+
+科技股崩 - 普通码农可能被裁
+生物信息学 - 融资反而增加（医疗AI热）
+
+原因：
+- 制药公司财报好（不受科技股影响）
+- AI在医疗领域刚开始（机会多）
+原因：
+- 制药公司财报好（不受科技股影响）
+- AI在医疗领域刚开始（机会多）
+- 政府支持医疗AI（政策利好）
+
+所以你的时机其实很好。
+
+最后建议
+
+
+短期（现在到10月）：
+- 进AI药物发现初创（工资好，前景好）
+
+中期（1-3年）：
+- 积累经验，看公司是否融资成功
+- 如果成功，可能获得期权回报
+
+长期（3-5年）：
+- 可能自己创业（你有生物背景+编程能力，很值钱）
+- 或者进更大公司当lead
+
+你现在的位置其实比普通程序员好得多。生物信息学和AI在生物领域是下一个大机会。
+
+---
+你有具体想了解的公司吗？或者想知道怎么准备特定的面试？
+
+Sources:
+- Bioinformatics Salary 2026 (https://www.compbiojobs.com/bioinformatics-salaries)
+- CompBioJobs - Bioinformatics Job Board (https://www.compbiojobs.com/)
+- Entry Level Bioinformatics Jobs 2026 (https://www.compbiojobs.com/jobs/entry-level)
+- Bioinformatics Jobs Boston 2026 (https://www.compbiojobs.com/jobs/boston)
+- Yale CBB Program (https://cbb.yale.edu/)
